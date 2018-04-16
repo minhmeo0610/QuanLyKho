@@ -1,0 +1,10 @@
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
