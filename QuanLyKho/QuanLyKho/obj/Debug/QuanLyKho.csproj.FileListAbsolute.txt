@@ -8,3 +8,13 @@ H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
 H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
 H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
 H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
+E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
