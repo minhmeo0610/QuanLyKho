@@ -46,13 +46,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BUS\ChiTietHoaDonBUS.cs" />
+    <Compile Include="BUS\DoiTacBUS.cs" />
     <Compile Include="BUS\HoaDonBUS.cs" />
     <Compile Include="BUS\NguoiDungBUS.cs" />
     <Compile Include="DAL\ChiTietHoaDonDAL.cs" />
+    <Compile Include="DAL\DoiTacDAL.cs" />
     <Compile Include="DAL\HoaDonDAL.cs" />
     <Compile Include="DAL\KetNoi.cs" />
     <Compile Include="DAL\NguoiDungDAL.cs" />
     <Compile Include="ENTITY\ChiTietHoaDonEntity.cs" />
+    <Compile Include="ENTITY\DoiTac.cs" />
     <Compile Include="ENTITY\HoaDonEntity.cs" />
     <Compile Include="ENTITY\NguoiDung.cs" />
     <Compile Include="Program.cs" />
@@ -62,6 +65,12 @@
     </Compile>
     <Compile Include="VIEW\frmDangNhap.Designer.cs">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\frmDoiTac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmDoiTac.designer.cs">
+      <DependentUpon>frmDoiTac.cs</DependentUpon>
     </Compile>
     <Compile Include="VIEW\frmHoaDon_CTHD.cs">
       <SubType>Form</SubType>
@@ -86,6 +95,9 @@
     </Compile>
     <EmbeddedResource Include="VIEW\frmDangNhap.resx">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmDoiTac.resx">
+      <DependentUpon>frmDoiTac.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\frmHoaDon_CTHD.resx">
       <DependentUpon>frmHoaDon_CTHD.cs</DependentUpon>

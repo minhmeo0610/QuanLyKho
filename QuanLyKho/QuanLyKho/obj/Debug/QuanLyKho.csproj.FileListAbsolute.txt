@@ -18,3 +18,14 @@ E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
+C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
