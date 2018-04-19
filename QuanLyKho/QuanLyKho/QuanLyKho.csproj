@@ -75,7 +75,7 @@
     <Compile Include="VIEW\frmHoaDon_CTHD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VIEW\frmHoaDon_CTHD.Designer.cs">
+    <Compile Include="VIEW\frmHoaDon_CTHD.designer.cs">
       <DependentUpon>frmHoaDon_CTHD.cs</DependentUpon>
     </Compile>
     <Compile Include="VIEW\frmMain.cs">

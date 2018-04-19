@@ -11,6 +11,6 @@ namespace QuanLyKho.ENTITY
         public string MaHD { get; set; }
         public string MaSP { get; set; }
         public int SoLuong { get; set; }
-        public int TongTien { get; set; }
+        public int DonGia { get; set; }
     }
 }
