@@ -33,3 +33,12 @@ E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj
 C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
 C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
 C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
