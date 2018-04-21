@@ -49,6 +49,7 @@ namespace QuanLyKho.VIEW
         private void HienThi()
         {
             dgvNhanVien.DataSource = Bus.GetData();
+            dgvNhanVien.AutoResizeColumns();
         }
 
         private void dgvNhanVien_CellClick(object sender, DataGridViewCellEventArgs e)
