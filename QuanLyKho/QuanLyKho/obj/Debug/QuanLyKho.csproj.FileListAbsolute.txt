@@ -30,3 +30,6 @@ C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\ob
 C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
 C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb

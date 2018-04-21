@@ -26,7 +26,7 @@ BEGIN
 END
 GO
 --thủ tục xóa đối tác
-ALTER PROC SP_XoaDoiTac(@MaDoiTac VARCHAR(10))
+CREATE PROC SP_XoaDoiTac(@MaDoiTac VARCHAR(10))
 AS
 BEGIN
 	UPDATE dbo.HoaDon

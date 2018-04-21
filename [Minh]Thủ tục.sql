@@ -19,6 +19,9 @@ VALUES  ( 'minh', -- TaiKhoan - varchar(50)
           '123', -- MatKhau - varchar(50)
           0  -- PhanQuyen - int
           )
+
+		  GO
+          
 CREATE PROC DangNhap(@TaiKhoan varCHAR(50),@MatKhau varCHAR(50))
 AS
 BEGIN
