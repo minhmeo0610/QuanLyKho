@@ -8,9 +8,10 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>QuanLyKho</RootNamespace>
     <AssemblyName>QuanLyKho</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -48,17 +49,20 @@
     <Compile Include="BUS\ChiTietHoaDonBUS.cs" />
     <Compile Include="BUS\DoiTacBUS.cs" />
     <Compile Include="BUS\HoaDonBUS.cs" />
+    <Compile Include="BUS\LoaiSanPhamBUS.cs" />
     <Compile Include="BUS\NguoiDungBUS.cs" />
     <Compile Include="BUS\NhanVienBUS.cs" />
     <Compile Include="DAL\ChiTietHoaDonDAL.cs" />
     <Compile Include="DAL\DoiTacDAL.cs" />
     <Compile Include="DAL\HoaDonDAL.cs" />
     <Compile Include="DAL\KetNoi.cs" />
+    <Compile Include="DAL\LoaiSanPhamDAL.cs" />
     <Compile Include="DAL\NguoiDungDAL.cs" />
     <Compile Include="DAL\NhanVienDAL.cs" />
     <Compile Include="ENTITY\ChiTietHoaDonEntity.cs" />
     <Compile Include="ENTITY\DoiTac.cs" />
     <Compile Include="ENTITY\HoaDonEntity.cs" />
+    <Compile Include="ENTITY\LoaiSanPham.cs" />
     <Compile Include="ENTITY\NguoiDung.cs" />
     <Compile Include="ENTITY\NhanVienEntity.cs" />
     <Compile Include="Program.cs" />
@@ -93,6 +97,12 @@
     <Compile Include="VIEW\frmNhanVien.Designer.cs">
       <DependentUpon>frmNhanVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="VIEW\frmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmSanPham.Designer.cs">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -101,6 +111,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="VIEW\frmDangNhap.resx">
       <DependentUpon>frmDangNhap.cs</DependentUpon>
@@ -113,6 +124,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\frmNhanVien.resx">
       <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmSanPham.resx">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

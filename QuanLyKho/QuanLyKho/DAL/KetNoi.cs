@@ -13,7 +13,7 @@ namespace QuanLyKho.DAL
         private SqlConnection conn;
         public KetNoi()
         {
-            conn = new SqlConnection(@"Data Source=NGOCANH\NGOCANH;Initial Catalog=QLKhoHang;Integrated Security=True");
+            conn = new SqlConnection(@"Data Source=THANHVUONG\SQLEXPRESS88;Initial Catalog=QLKhoHang;Integrated Security=True");
         }
         public DataTable GetData(string strSql)
         {
@@ -55,6 +55,36 @@ namespace QuanLyKho.DAL
             }
             return Ma;
         }
+        public string TangMa3(String sql, string Ma)
+        {
+            SqlCommand cm = new SqlCommand(sql, conn);      // bắt đầu truy vấn
+            cm.CommandType = CommandType.Text;
+            SqlDataAdapter da = new SqlDataAdapter(cm);     //vận chuyển dữ liệu về
+            DataTable dt = new DataTable();                 //tạo 1 kho ảo để chứa dữ liệu
+            da.Fill(dt);
+            if (dt.Rows.Count <= 0)
+            {
+                Ma = Ma + "01";
+            }
+            else
+            {
+                int k;
+                k = Convert.ToInt32(dt.Rows[dt.Rows.Count - 1][0].ToString().Substring(3, 2));
+                k = k + 1;
+                if (k < 10)
+                {
+                    Ma = Ma + "0";
+                }
+                else if (k < 100)
+                {
+                    Ma = Ma + "";
+                }
+               
+                Ma = Ma + k.ToString();
+            }
+            return Ma;
+        }
+
         public DataTable GetData(string NameProc, SqlParameter[] para)
         {
 
