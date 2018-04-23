@@ -85,6 +85,12 @@
     <Compile Include="VIEW\frmHoaDon_CTHD.designer.cs">
       <DependentUpon>frmHoaDon_CTHD.cs</DependentUpon>
     </Compile>
+    <Compile Include="VIEW\frmhuongdan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\frmhuongdan.Designer.cs">
+      <DependentUpon>frmhuongdan.cs</DependentUpon>
+    </Compile>
     <Compile Include="VIEW\frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +128,12 @@
     <EmbeddedResource Include="VIEW\frmHoaDon_CTHD.resx">
       <DependentUpon>frmHoaDon_CTHD.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmhuongdan.resx">
+      <DependentUpon>frmhuongdan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VIEW\frmNhanVien.resx">
       <DependentUpon>frmNhanVien.cs</DependentUpon>
     </EmbeddedResource>
@@ -141,6 +153,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="LogoHV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Untitled.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

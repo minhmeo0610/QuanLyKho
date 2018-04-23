@@ -491,6 +491,7 @@
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frmDoiTac";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmDoiTac";
             this.Load += new System.EventHandler(this.frmDoiTac_Load);
             this.groupBox1.ResumeLayout(false);

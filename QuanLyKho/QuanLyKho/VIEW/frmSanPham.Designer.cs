@@ -32,28 +32,28 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabSanPham = new System.Windows.Forms.TabPage();
             this.tabLoaiSanPham = new System.Windows.Forms.TabPage();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dgvLoaiSanPham = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtMaLoaiSP = new System.Windows.Forms.TextBox();
-            this.txtTenLoaiSP = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtMoTa = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
+            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaLoaiSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenLoaiSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MoTa = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnHuyLoaiSP = new System.Windows.Forms.Button();
             this.btnLuuLoaiSP = new System.Windows.Forms.Button();
             this.btnThoatLoaiSP = new System.Windows.Forms.Button();
             this.btnXoaLoaiSP = new System.Windows.Forms.Button();
             this.btnSuaLoaiSP = new System.Windows.Forms.Button();
             this.btnThemLoaiSP = new System.Windows.Forms.Button();
-            this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MaLoaiSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenLoaiSanPham = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MoTa = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtMoTa = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtTenLoaiSP = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtMaLoaiSP = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabLoaiSanPham.SuspendLayout();
-            this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvLoaiSanPham)).BeginInit();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -69,10 +69,10 @@
             // 
             // tabSanPham
             // 
-            this.tabSanPham.Location = new System.Drawing.Point(4, 29);
+            this.tabSanPham.Location = new System.Drawing.Point(4, 25);
             this.tabSanPham.Name = "tabSanPham";
             this.tabSanPham.Padding = new System.Windows.Forms.Padding(3);
-            this.tabSanPham.Size = new System.Drawing.Size(973, 560);
+            this.tabSanPham.Size = new System.Drawing.Size(973, 564);
             this.tabSanPham.TabIndex = 0;
             this.tabSanPham.Text = "Sản Phẩm";
             this.tabSanPham.UseVisualStyleBackColor = true;
@@ -81,13 +81,58 @@
             // 
             this.tabLoaiSanPham.Controls.Add(this.dgvLoaiSanPham);
             this.tabLoaiSanPham.Controls.Add(this.groupBox1);
-            this.tabLoaiSanPham.Location = new System.Drawing.Point(4, 29);
+            this.tabLoaiSanPham.Location = new System.Drawing.Point(4, 25);
             this.tabLoaiSanPham.Name = "tabLoaiSanPham";
             this.tabLoaiSanPham.Padding = new System.Windows.Forms.Padding(3);
-            this.tabLoaiSanPham.Size = new System.Drawing.Size(973, 560);
+            this.tabLoaiSanPham.Size = new System.Drawing.Size(973, 564);
             this.tabLoaiSanPham.TabIndex = 1;
             this.tabLoaiSanPham.Text = "Loại Sản Phẩm";
             this.tabLoaiSanPham.UseVisualStyleBackColor = true;
+            // 
+            // dgvLoaiSanPham
+            // 
+            this.dgvLoaiSanPham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvLoaiSanPham.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.STT,
+            this.MaLoaiSanPham,
+            this.TenLoaiSanPham,
+            this.MoTa});
+            this.dgvLoaiSanPham.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvLoaiSanPham.Location = new System.Drawing.Point(3, 227);
+            this.dgvLoaiSanPham.Name = "dgvLoaiSanPham";
+            this.dgvLoaiSanPham.RowTemplate.Height = 24;
+            this.dgvLoaiSanPham.Size = new System.Drawing.Size(967, 334);
+            this.dgvLoaiSanPham.TabIndex = 1;
+            this.dgvLoaiSanPham.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLoaiSanPham_CellClick);
+            this.dgvLoaiSanPham.RowPrePaint += new System.Windows.Forms.DataGridViewRowPrePaintEventHandler(this.dgvLoaiSanPham_RowPrePaint);
+            // 
+            // STT
+            // 
+            this.STT.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
+            this.STT.HeaderText = "STT";
+            this.STT.Name = "STT";
+            this.STT.Width = 59;
+            // 
+            // MaLoaiSanPham
+            // 
+            this.MaLoaiSanPham.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.MaLoaiSanPham.DataPropertyName = "MaLoaiSP";
+            this.MaLoaiSanPham.HeaderText = "Mã Loại Sản Phẩm";
+            this.MaLoaiSanPham.Name = "MaLoaiSanPham";
+            // 
+            // TenLoaiSanPham
+            // 
+            this.TenLoaiSanPham.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.TenLoaiSanPham.DataPropertyName = "TenLoaiSP";
+            this.TenLoaiSanPham.HeaderText = "Tên Loại Sản Phẩm";
+            this.TenLoaiSanPham.Name = "TenLoaiSanPham";
+            // 
+            // MoTa
+            // 
+            this.MoTa.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.MoTa.DataPropertyName = "MoTa";
+            this.MoTa.HeaderText = "Mô Tả";
+            this.MoTa.Name = "MoTa";
             // 
             // groupBox1
             // 
@@ -110,72 +155,6 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Loại Sản Phẩm";
-            // 
-            // dgvLoaiSanPham
-            // 
-            this.dgvLoaiSanPham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvLoaiSanPham.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.STT,
-            this.MaLoaiSanPham,
-            this.TenLoaiSanPham,
-            this.MoTa});
-            this.dgvLoaiSanPham.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvLoaiSanPham.Location = new System.Drawing.Point(3, 227);
-            this.dgvLoaiSanPham.Name = "dgvLoaiSanPham";
-            this.dgvLoaiSanPham.RowTemplate.Height = 24;
-            this.dgvLoaiSanPham.Size = new System.Drawing.Size(967, 330);
-            this.dgvLoaiSanPham.TabIndex = 1;
-            this.dgvLoaiSanPham.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLoaiSanPham_CellClick);
-            this.dgvLoaiSanPham.RowPrePaint += new System.Windows.Forms.DataGridViewRowPrePaintEventHandler(this.dgvLoaiSanPham_RowPrePaint);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(22, 39);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(150, 21);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Mã loại sản phẩm :";
-            // 
-            // txtMaLoaiSP
-            // 
-            this.txtMaLoaiSP.Location = new System.Drawing.Point(187, 36);
-            this.txtMaLoaiSP.Name = "txtMaLoaiSP";
-            this.txtMaLoaiSP.Size = new System.Drawing.Size(251, 28);
-            this.txtMaLoaiSP.TabIndex = 1;
-            // 
-            // txtTenLoaiSP
-            // 
-            this.txtTenLoaiSP.Location = new System.Drawing.Point(187, 75);
-            this.txtTenLoaiSP.Name = "txtTenLoaiSP";
-            this.txtTenLoaiSP.Size = new System.Drawing.Size(251, 28);
-            this.txtTenLoaiSP.TabIndex = 3;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(22, 82);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(155, 21);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Tên loại sản phẩm :";
-            // 
-            // txtMoTa
-            // 
-            this.txtMoTa.Location = new System.Drawing.Point(557, 32);
-            this.txtMoTa.Multiline = true;
-            this.txtMoTa.Name = "txtMoTa";
-            this.txtMoTa.Size = new System.Drawing.Size(257, 71);
-            this.txtMoTa.TabIndex = 5;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(474, 39);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(63, 21);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Mô tả :";
             // 
             // btnHuyLoaiSP
             // 
@@ -275,52 +254,74 @@
             this.btnThemLoaiSP.UseVisualStyleBackColor = true;
             this.btnThemLoaiSP.Click += new System.EventHandler(this.btnThemLoaiSP_Click);
             // 
-            // STT
+            // txtMoTa
             // 
-            this.STT.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
-            this.STT.HeaderText = "STT";
-            this.STT.Name = "STT";
-            this.STT.Width = 74;
+            this.txtMoTa.Location = new System.Drawing.Point(557, 32);
+            this.txtMoTa.Multiline = true;
+            this.txtMoTa.Name = "txtMoTa";
+            this.txtMoTa.Size = new System.Drawing.Size(257, 71);
+            this.txtMoTa.TabIndex = 5;
             // 
-            // MaLoaiSanPham
+            // label3
             // 
-            this.MaLoaiSanPham.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.MaLoaiSanPham.DataPropertyName = "MaLoaiSP";
-            this.MaLoaiSanPham.HeaderText = "Mã Loại Sản Phẩm";
-            this.MaLoaiSanPham.Name = "MaLoaiSanPham";
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(474, 39);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(50, 17);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Mô tả :";
             // 
-            // TenLoaiSanPham
+            // txtTenLoaiSP
             // 
-            this.TenLoaiSanPham.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.TenLoaiSanPham.DataPropertyName = "TenLoaiSP";
-            this.TenLoaiSanPham.HeaderText = "Tên Loại Sản Phẩm";
-            this.TenLoaiSanPham.Name = "TenLoaiSanPham";
+            this.txtTenLoaiSP.Location = new System.Drawing.Point(187, 75);
+            this.txtTenLoaiSP.Name = "txtTenLoaiSP";
+            this.txtTenLoaiSP.Size = new System.Drawing.Size(251, 24);
+            this.txtTenLoaiSP.TabIndex = 3;
             // 
-            // MoTa
+            // label2
             // 
-            this.MoTa.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.MoTa.DataPropertyName = "MoTa";
-            this.MoTa.HeaderText = "Mô Tả";
-            this.MoTa.Name = "MoTa";
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(22, 82);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(122, 17);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Tên loại sản phẩm :";
+            // 
+            // txtMaLoaiSP
+            // 
+            this.txtMaLoaiSP.Location = new System.Drawing.Point(187, 36);
+            this.txtMaLoaiSP.Name = "txtMaLoaiSP";
+            this.txtMaLoaiSP.Size = new System.Drawing.Size(251, 24);
+            this.txtMaLoaiSP.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(22, 39);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(119, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Mã loại sản phẩm :";
             // 
             // frmSanPham
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(981, 593);
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmSanPham";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản Lý Sản Phẩm";
             this.Load += new System.EventHandler(this.frmSanPham_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabLoaiSanPham.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvLoaiSanPham)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvLoaiSanPham)).EndInit();
             this.ResumeLayout(false);
 
         }
