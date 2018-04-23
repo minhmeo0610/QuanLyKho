@@ -1,7 +1,8 @@
 ﻿-- Sửa bảng Nhân Viên
+USE QLKhoHang
 GO
 ALTER TABLE dbo.NhanVien 
-ALTER COLUMN GioiTinh NVARCHAR(5)
+ADD  GioiTinh NVARCHAR(5)
 -- Thủ tục Nhân Viên
 -- Xem Nhân Viên
 GO

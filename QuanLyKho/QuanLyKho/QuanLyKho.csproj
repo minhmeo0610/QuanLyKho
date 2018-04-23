@@ -52,6 +52,7 @@
     <Compile Include="BUS\LoaiSanPhamBUS.cs" />
     <Compile Include="BUS\NguoiDungBUS.cs" />
     <Compile Include="BUS\NhanVienBUS.cs" />
+    <Compile Include="BUS\SanPhamBUS.cs" />
     <Compile Include="DAL\ChiTietHoaDonDAL.cs" />
     <Compile Include="DAL\DoiTacDAL.cs" />
     <Compile Include="DAL\HoaDonDAL.cs" />
@@ -59,12 +60,14 @@
     <Compile Include="DAL\LoaiSanPhamDAL.cs" />
     <Compile Include="DAL\NguoiDungDAL.cs" />
     <Compile Include="DAL\NhanVienDAL.cs" />
+    <Compile Include="DAL\SanPhamDAL.cs" />
     <Compile Include="ENTITY\ChiTietHoaDonEntity.cs" />
     <Compile Include="ENTITY\DoiTac.cs" />
     <Compile Include="ENTITY\HoaDonEntity.cs" />
     <Compile Include="ENTITY\LoaiSanPham.cs" />
     <Compile Include="ENTITY\NguoiDung.cs" />
     <Compile Include="ENTITY\NhanVienEntity.cs" />
+    <Compile Include="ENTITY\SanPham.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VIEW\frmDangNhap.cs">
