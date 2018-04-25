@@ -22,5 +22,16 @@ namespace QuanLyKho.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-CE8KMD8\\SQLEXPRESS;Initial Catalog=QLKhoHang;Integrated Secur" +
+            "ity=True")]
+        public string QLKhoHangConnectionString {
+            get {
+                return ((string)(this["QLKhoHangConnectionString"]));
+            }
+        }
     }
 }

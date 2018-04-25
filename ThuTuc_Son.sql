@@ -59,4 +59,3 @@ BEGIN
 	SELECT*FROM dbo.NhanVien
 END
 GO 
-
