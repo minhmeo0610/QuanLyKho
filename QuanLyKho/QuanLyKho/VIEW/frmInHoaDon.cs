@@ -10,15 +10,17 @@ using System.Windows.Forms;
 
 namespace QuanLyKho.VIEW
 {
-    public partial class frmInPhieu : Form
+    public partial class frmInHoaDon : Form
     {
-        public frmInPhieu()
+        public frmInHoaDon()
         {
             InitializeComponent();
         }
 
-        private void frmInPhieu_Load(object sender, EventArgs e)
+        private void frmInHoaDon_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'quanLyKhoDataSet.InHoaDon' table. You can move, or remove it, as needed.
+            this.inHoaDonTableAdapter.Fill(this.quanLyKhoDataSet.InHoaDon,frmHoaDon_CTHD.Ma);
 
             this.reportViewer1.RefreshReport();
         }

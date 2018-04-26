@@ -73,13 +73,13 @@
     <Compile Include="ENTITY\SanPham.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuanLyKho.cs">
-      <DependentUpon>QuanLyKho.xsd</DependentUpon>
+    <Compile Include="QuanLyKhoDataSet.cs">
+      <DependentUpon>QuanLyKhoDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyKho.Designer.cs">
+    <Compile Include="QuanLyKhoDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>QuanLyKho.xsd</DependentUpon>
+      <DependentUpon>QuanLyKhoDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="VIEW\frmDangNhap.cs">
       <SubType>Form</SubType>
@@ -105,11 +105,11 @@
     <Compile Include="VIEW\frmhuongdan.Designer.cs">
       <DependentUpon>frmhuongdan.cs</DependentUpon>
     </Compile>
-    <Compile Include="VIEW\frmInPhieu.cs">
+    <Compile Include="VIEW\frmInHoaDon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="VIEW\frmInPhieu.Designer.cs">
-      <DependentUpon>frmInPhieu.cs</DependentUpon>
+    <Compile Include="VIEW\frmInHoaDon.Designer.cs">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
     </Compile>
     <Compile Include="VIEW\frmMain.cs">
       <SubType>Form</SubType>
@@ -151,8 +151,8 @@
     <EmbeddedResource Include="VIEW\frmhuongdan.resx">
       <DependentUpon>frmhuongdan.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VIEW\frmInPhieu.resx">
-      <DependentUpon>frmInPhieu.cs</DependentUpon>
+    <EmbeddedResource Include="VIEW\frmInHoaDon.resx">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
@@ -163,8 +163,7 @@
     <EmbeddedResource Include="VIEW\frmSanPham.resx">
       <DependentUpon>frmSanPham.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="VIEW\InHoaDon.rdlc" />
-    <EmbeddedResource Include="VIEW\SanPham.rdlc" />
+    <EmbeddedResource Include="VIEW\HoaDon.rdlc" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -182,16 +181,16 @@
     <None Include="LogoHV.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="QuanLyKho.xsc">
-      <DependentUpon>QuanLyKho.xsd</DependentUpon>
+    <None Include="QuanLyKhoDataSet.xsc">
+      <DependentUpon>QuanLyKhoDataSet.xsd</DependentUpon>
     </None>
-    <None Include="QuanLyKho.xsd">
+    <None Include="QuanLyKhoDataSet.xsd">
       <SubType>Designer</SubType>
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QuanLyKho.Designer.cs</LastGenOutput>
+      <LastGenOutput>QuanLyKhoDataSet.Designer.cs</LastGenOutput>
     </None>
-    <None Include="QuanLyKho.xss">
-      <DependentUpon>QuanLyKho.xsd</DependentUpon>
+    <None Include="QuanLyKhoDataSet.xss">
+      <DependentUpon>QuanLyKhoDataSet.xsd</DependentUpon>
     </None>
     <None Include="Untitled.png" />
   </ItemGroup>

@@ -18,6 +18,7 @@ namespace QuanLyKho.VIEW
         ChiTietHoaDonBUS CTHDbus = new ChiTietHoaDonBUS();
         ChiTietHoaDonEntity CTHD = new ChiTietHoaDonEntity();
         private int fluu = 1;
+        public static string Ma;
         public frmHoaDon_CTHD()
         {
             InitializeComponent();
@@ -351,6 +352,20 @@ namespace QuanLyKho.VIEW
             txtTimKiem.Text = "";
             cmbTimKiem.Text = "";
             HienThi();
+        }
+
+        private void btnInHD_Click(object sender, EventArgs e)
+        {
+            if(txtMaHD.Text != null)
+            {
+                Ma = txtMaHD.Text;
+                frmInHoaDon frmIn = new frmInHoaDon();
+                frmIn.Show();
+            }
+            else
+            {
+                MessageBox.Show("Yêu Cầu Nhập Thông Tin Đầy Đủ ");
+            }
         }
     }
 }

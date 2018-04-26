@@ -321,6 +321,7 @@
             this.btnInHD.Text = "In HD";
             this.btnInHD.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnInHD.UseVisualStyleBackColor = true;
+            this.btnInHD.Click += new System.EventHandler(this.btnInHD_Click);
             // 
             // cmbTimKiem
             // 
@@ -680,7 +681,7 @@
             this.groupBox7.Controls.Add(this.btnHuyCTHD);
             this.groupBox7.Controls.Add(this.btnThemCTHD);
             this.groupBox7.Controls.Add(this.btnXoaCTHD);
-            this.groupBox7.Location = new System.Drawing.Point(661, 207);
+            this.groupBox7.Location = new System.Drawing.Point(676, 207);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(372, 78);
             this.groupBox7.TabIndex = 77;

@@ -13,7 +13,7 @@ namespace QuanLyKho.DAL
         private SqlConnection conn;
         public KetNoi()
         {
-            conn = new SqlConnection(@"Data Source=ManhCuong-PC;Initial Catalog=QLKhoHang;Integrated Security=True");
+            conn = new SqlConnection(@"Data Source=DESKTOP-CE8KMD8\SQLEXPRESS;Initial Catalog=QLKhoHang;Integrated Security=True");
         }
         public DataTable GetData(string strSql)
         {

@@ -2,7 +2,7 @@
 {
 
 
-    partial class QuanLyKho
+    partial class QuanLyKhoDataSet
     {
     }
 }
