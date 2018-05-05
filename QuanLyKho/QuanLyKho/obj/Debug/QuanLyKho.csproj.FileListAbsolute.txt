@@ -105,3 +105,18 @@ E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\RdlCompile.cache
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\RdlCompile.compiled
 E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmInHoaDon.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmInHoaDon.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
+C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
