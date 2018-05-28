@@ -116,6 +116,17 @@ namespace QuanLyKho.VIEW
 
         private void btnLuu_Click(object sender, EventArgs e)
         {
+            if (txtMaDoiTac.Text == "" || txtTenDoiTac.Text == "" || txtDiaChi.Text == "" || txtSDT.Text == "" || txtEmail.Text == "" || txtGhiChu.Text == ""|| txtKieuDoiTac.Text == "")
+            {
+                MessageBox.Show("Bạn chưa nhập đủ thông tin", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+            float a;
+            if (!float.TryParse(txtSDT.Text, out a))
+            {
+                MessageBox.Show("Nhập sdt không chính xác", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
             doitac.MaDoiTac = txtMaDoiTac.Text;
             doitac.TenDoiTac = txtTenDoiTac.Text;
             doitac.DiaChi = txtDiaChi.Text;
