@@ -20,3 +20,85 @@ INSERT dbo.DoiTac
 VALUES  ( N'DT09' ,N'Đối tác Phan Thị' ,N'Việt Nam' ,N'0999656969' , N'doitacphanthi@gmail.com' , N'' , N'đối tác hàng hóa')
 INSERT dbo.DoiTac
 VALUES  ( N'DT010' ,N'Đối tác Pháp' ,N'Pháp' ,N'0168954787' , N'doitacphap@gmail.com' , N'' , N'đối tác xuất khẩu')
+
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV01' , -- MaNV - nchar(10)
+          N'Hoàng Mạnh Nam' , -- TenNV - nvarchar(50)
+          '1993-09-02' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0987654987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV02' , -- MaNV - nchar(10)
+          N'Nguyễn Văn Mạnh' , -- TenNV - nvarchar(50)
+          '1992-05-12' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0987659107'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV03' , -- MaNV - nchar(10)
+          N'Lý Thị Huyền' , -- TenNV - nvarchar(50)
+          '1993-11-02' , -- NgaySinh - date
+          N'Nữ' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0989014987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV04' , -- MaNV - nchar(10)
+          N'Lý Ngọc Minh' , -- TenNV - nvarchar(50)
+          '1991-01-24' , -- NgaySinh - date
+          N'Nữ' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0989010987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV05' , -- MaNV - nchar(10)
+          N'Đào Văn Huấn' , -- TenNV - nvarchar(50)
+          '1991-09-02' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0987894987'  -- SoDT - nchar(20)
+        )
+
