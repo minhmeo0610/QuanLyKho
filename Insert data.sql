@@ -101,4 +101,85 @@ VALUES  ( N'NV05' , -- MaNV - nchar(10)
           N'Hà Nội' , -- DiaChi - nvarchar(50)
           N'0987894987'  -- SoDT - nchar(20)
         )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV06' , -- MaNV - nchar(10)
+          N'Trần Văn Mạnh' , -- TenNV - nvarchar(50)
+          '1993-01-12' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0989356987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV07' , -- MaNV - nchar(10)
+          N'Nguyễn Huy Hoàng' , -- TenNV - nvarchar(50)
+          '1992-06-04' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'09901254987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV08' , -- MaNV - nchar(10)
+          N'Trần Văn Toàn' , -- TenNV - nvarchar(50)
+          '1995-07-03' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0986824987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV09' , -- MaNV - nchar(10)
+          N'Trần Hữu Quyết' , -- TenNV - nvarchar(50)
+          '1995-02-03' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0990824987'  -- SoDT - nchar(20)
+        )
+GO
+INSERT INTO dbo.NhanVien
+        ( MaNV ,
+          TenNV ,
+          NgaySinh ,
+          GioiTinh ,
+          DiaChi ,
+          SoDT
+        )
+VALUES  ( N'NV10' , -- MaNV - nchar(10)
+          N'Lê Văn Huy' , -- TenNV - nvarchar(50)
+          '1989-04-09' , -- NgaySinh - date
+          N'Nam' , -- GioiTinh - nvarchar(5)
+          N'Hà Nội' , -- DiaChi - nvarchar(50)
+          N'0986345687'  -- SoDT - nchar(20)
+        )
+
 
