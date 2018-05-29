@@ -27,12 +27,12 @@ BEGIN
 	WHERE ChiTietHoaDon.MaSP= SanPham.MaSP AND  MaHD = @Ma
 END
 GO 
-CREATE PROC Them_CTHD (@MaHD VARCHAR(10), @MaSP VARCHAR(10),@SoLuong INT, @DonGia INT )
+ALTER PROC Them_CTHD (@MaHD VARCHAR(10), @MaSP VARCHAR(10),@SoLuong INT, @DonGia INT)
 AS
 BEGIN
 	INSERT INTO dbo.ChiTietHoaDon
-	        ( MaSP, MaHD, SoLuong, DonGia )
-	VALUES  ( @MaSP,@MaHD,@SoLuong,@DonGia)
+	        ( MaSP, MaHD, SoLuong, DonGia ,ThanhTien)
+	VALUES  ( @MaSP,@MaHD,@SoLuong,@DonGia,@SoLuong*@DonGia)
 END
 GO
 CREATE PROC Xoa_CTHD (@MaHD varchar(10),@MaSP varchar(10))
