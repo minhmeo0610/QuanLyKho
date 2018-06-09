@@ -156,7 +156,7 @@ namespace QuanLyKho.VIEW
             else gt = "Nữ";
 
             obj.GioiTinh = gt;
-            if (txtMaNV.Text != "" && txtTenNV.Text != "" && txtDiaChi.Text != "" && txtSDT.Text != ""  && radNam.Checked == false || radNu.Checked == false && fluu == 0)
+            if (txtMaNV.Text != "" && txtTenNV.Text != "" && txtDiaChi.Text != "" && txtSDT.Text != ""  && (radNam.Checked == false || radNu.Checked == false) && fluu == 0)
             {
                 try
                 {
@@ -173,7 +173,7 @@ namespace QuanLyKho.VIEW
                     MessageBox.Show("Lỗi" + ex.Message);
                 }
             }
-            else if (txtMaNV.Text != "" && txtTenNV.Text != "" && txtDiaChi.Text != "" && txtSDT.Text != "" && radNam.Checked == false || radNu.Checked == false && fluu != 0)
+            else if (txtMaNV.Text != "" && txtTenNV.Text != "" && txtDiaChi.Text != "" && txtSDT.Text != "" && (radNam.Checked == false || radNu.Checked == false) && fluu != 0)
             {
                 try
                 {
