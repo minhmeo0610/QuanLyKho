@@ -40,13 +40,13 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label3.Font = new System.Drawing.Font("Mistral", 27.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Red;
-            this.label3.Location = new System.Drawing.Point(36, 36);
+            this.label3.Location = new System.Drawing.Point(85, 19);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(285, 20);
+            this.label3.Size = new System.Drawing.Size(211, 44);
             this.label3.TabIndex = 13;
-            this.label3.Text = "QUẢN LÝ GIÁO VIÊN - HỌC SINH";
+            this.label3.Text = "QUẢN LÝ KHO\r\n";
             // 
             // btnThoat
             // 
@@ -115,6 +115,7 @@
             this.AcceptButton = this.btnDangNhap;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.CancelButton = this.btnThoat;
             this.ClientSize = new System.Drawing.Size(356, 288);
             this.Controls.Add(this.label3);

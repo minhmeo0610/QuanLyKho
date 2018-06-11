@@ -70,5 +70,52 @@ namespace QuanLyKho.VIEW
             frmhuongdan h = new frmhuongdan();
             h.Show();
         }
+
+        private void ttNhanVientoolStripButton_Click(object sender, EventArgs e)
+        {
+            frmNhanVien dt = new frmNhanVien();
+            dt.Show();
+            this.Hide();
+        }
+
+        private void btnDoiTac_Click(object sender, EventArgs e)
+        {
+            frmDoiTac dt = new frmDoiTac();
+            dt.Show();
+            this.Hide();
+        }
+
+        private void btnSanPham_Click(object sender, EventArgs e)
+        {
+            frmSanPham dt = new frmSanPham();
+            dt.Show();
+            this.Hide();
+        }
+
+        private void btn_Click(object sender, EventArgs e)
+        {
+            frmHoaDon_CTHD dt = new frmHoaDon_CTHD();
+            dt.Show();
+            this.Hide();
+        }
+
+        private void quảnLýSáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmHoaDon_CTHD dt = new frmHoaDon_CTHD();
+            dt.Show();
+            this.Hide();
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("Bạn chắc chắn muốn thoát không?", "Xác nhận không", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            else
+                return ;
+          
+        }
     }
 }

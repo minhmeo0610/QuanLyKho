@@ -1,152 +1,28 @@
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-H:\Users\MINH\source\repos\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
-C:\Users\ADMIN\Desktop\New folder (2)\quanlykho\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
-G:\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmInHoaDon.resources
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
-H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
-D:\GitHub\QLNS\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\RdlCompile.cache
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\RdlCompile.compiled
-E:\Kỳ 6\Thực Tập Nhóm\Bài Tập\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmInHoaDon.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmInHoaDon.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
-C:\Users\NgocAnh\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDangNhap.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmDoiTac.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmHoaDon_CTHD.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmhuongdan.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmInHoaDon.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmMain.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmNhanVien.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.VIEW.frmSanPham.resources
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\RdlCompile.cache
-C:\Users\ADMIN\Desktop\project ttn\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\RdlCompile.compiled

@@ -251,9 +251,11 @@ namespace QuanLyKho.VIEW
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            DialogResult dr = MessageBox.Show("Bạn chắc chắn muốn thoát?", "Xác nhận hủy", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            DialogResult dr = MessageBox.Show("Bạn chắc chắn muốn thoát?", "Xác nhận ", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (dr == DialogResult.Yes)
             {
+                frmMain t = new frmMain();
+                t.Show();
                 this.Close();
             }
             else
