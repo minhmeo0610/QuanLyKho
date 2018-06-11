@@ -20,10 +20,10 @@ BEGIN
 	DELETE dbo.HoaDon WHERE MaHD = @Ma 
 END
 GO
-CREATE PROC CTHD_SelectByID (@Ma VARCHAR(10))
+ALTER PROC CTHD_SelectByID (@Ma VARCHAR(10))
 AS
 BEGIN
-	SELECT MaHD,TenSP,SoLuong,DonGia,ThanhTien = (SoLuong*DonGia) FROM dbo.ChiTietHoaDon,dbo.SanPham
+	SELECT MaHD,TenSP,SoLuong,DonGia,(SoLuong*DonGia) AS ThanhTien FROM dbo.ChiTietHoaDon,dbo.SanPham
 	WHERE ChiTietHoaDon.MaSP= SanPham.MaSP AND  MaHD = @Ma
 END
 GO 
@@ -31,8 +31,8 @@ ALTER PROC Them_CTHD (@MaHD VARCHAR(10), @MaSP VARCHAR(10),@SoLuong INT, @DonGia
 AS
 BEGIN
 	INSERT INTO dbo.ChiTietHoaDon
-	        ( MaSP, MaHD, SoLuong, DonGia ,ThanhTien)
-	VALUES  ( @MaSP,@MaHD,@SoLuong,@DonGia,@SoLuong*@DonGia)
+	        ( MaSP, MaHD, SoLuong, DonGia )
+	VALUES  ( @MaSP,@MaHD,@SoLuong,@DonGia)
 END
 GO
 CREATE PROC Xoa_CTHD (@MaHD varchar(10),@MaSP varchar(10))
