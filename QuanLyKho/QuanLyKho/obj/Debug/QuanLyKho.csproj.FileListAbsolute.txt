@@ -26,3 +26,4 @@ H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
 H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+H:\Users\MINH\Documents\GitHub\QuanLyKho\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
